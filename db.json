@@ -8,15 +8,15 @@
   },
   "notifications": [
     { 
-      "title": "Latest Legislative Update",
+      "title": "Latest Legislative Update 1",
       "status": "success"
     },
     { 
-      "title": "Latest Legislative Update",
+      "title": "Latest Legislative Update 2",
       "status": "success"
     },
     { 
-      "title": "Latest Legislative Update",
+      "title": "Latest Legislative Update 3",
       "status": "success"
     }
   ]
